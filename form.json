@@ -1,0 +1,102 @@
+{
+  "title": "VENTURA OWNERS ALERT",
+  "subtitle": "Ventura Owner-to-Owner Communication",
+  "submitLabel": "Submit",
+  "sheetsURL": "https://script.google.com/macros/s/AKfycbza7BoHZMM0Cm6KNYHHDvBRoeqytnMSE4CopJJJe7n1GRTgJv8mnJFOITi33VLeL3WhDg/exec",
+  "fields": [
+    {
+      "id": "-muhd5kju",
+      "label": " ",
+      "type": "text-display",
+      "required": false,
+      "textContent": "Hello Ventura owner. I'm tired of trying to convince our Board to allow us to communicate with each other, particularly to advertise weeks that we might want to rent or sell. If you would like join the group that receives this information in a completely private manner, then just fill out the form below.",
+      "textSize": "large",
+      "textAlign": "left",
+      "textStyle": "normal"
+    },
+    {
+      "id": "first-name",
+      "label": "First Name",
+      "type": "alpha-full",
+      "required": true
+    },
+    {
+      "id": "last-name",
+      "label": "Last Name",
+      "type": "alpha-full",
+      "required": true
+    },
+    {
+      "id": "email",
+      "label": "Email",
+      "type": "email",
+      "required": true
+    },
+    {
+      "id": "-muhdbfla",
+      "label": " ",
+      "type": "text-display",
+      "required": false,
+      "textContent": "If you have any questions about this feel free to contact me at Gary.Bernstein@McGill.CA",
+      "textSize": "large",
+      "textAlign": "center",
+      "textStyle": "normal"
+    }
+  ],
+  "optionSets": {
+    "provinces": [
+      {
+        "value": "AB",
+        "label": "AB – Alberta"
+      },
+      {
+        "value": "BC",
+        "label": "BC – British Columbia"
+      },
+      {
+        "value": "MB",
+        "label": "MB – Manitoba"
+      },
+      {
+        "value": "NB",
+        "label": "NB – New Brunswick"
+      },
+      {
+        "value": "NL",
+        "label": "NL – Newfoundland & Labrador"
+      },
+      {
+        "value": "NS",
+        "label": "NS – Nova Scotia"
+      },
+      {
+        "value": "NT",
+        "label": "NT – Northwest Territories"
+      },
+      {
+        "value": "NU",
+        "label": "NU – Nunavut"
+      },
+      {
+        "value": "ON",
+        "label": "ON – Ontario"
+      },
+      {
+        "value": "PE",
+        "label": "PE – Prince Edward Island"
+      },
+      {
+        "value": "QC",
+        "label": "QC – Québec"
+      },
+      {
+        "value": "SK",
+        "label": "SK – Saskatchewan"
+      },
+      {
+        "value": "YT",
+        "label": "YT – Yukon"
+      }
+    ]
+  }
+}
