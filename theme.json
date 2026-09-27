@@ -15,7 +15,7 @@
   "buttonLabel": "Submit",
   "buttonColor": "#1a1a1a",
   "buttonText": "#ffffff",
-  "logo": "Ventura.jpg",
+  "logo": "myLogo.png",
   "logoWidth": "120",
   "logoPosition": "left",
   "darkMode": "auto"
