@@ -16,7 +16,7 @@
   "buttonColor": "#1a1a1a",
   "buttonText": "#ffffff",
   "logo": "Ventura.jpg",
-  "logoWidth": "120",
-  "logoPosition": "left",
+  "logoWidth": "1240",
+  "logoPosition": "center",
   "darkMode": "auto"
 }
